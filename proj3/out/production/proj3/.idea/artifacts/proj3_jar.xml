@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="proj3:jar">
+    <output-path>$USER_HOME$/cs61b_game/jar</output-path>
+    <root id="root">
+      <element id="archive" name="proj3.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$USER_HOME$/cs61b_game/jar/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="proj3" />
+      </element>
+    </root>
+  </artifact>
+</component>
